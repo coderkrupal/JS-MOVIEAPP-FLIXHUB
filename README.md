@@ -17,8 +17,8 @@ MovieFlix is a simple and stylish movie web page built using **HTML, CSS, and Ja
 ## 🏗️ Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/moviefix.git
-   ```
+   git clone https://github.com/coderkrupal/JS-MOVIEAPP-FLIXHUB
+```
 2. **Open `index.html` in a browser.**
 
 ## 🖥️ Usage
